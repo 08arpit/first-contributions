@@ -1,14 +1,13 @@
 # Contributors
+
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [lomus-hona] (https://github.com/lhona01)
-- [Alexskald](https://github.com/jxuho)
- -[Rajkumar](https://github.com/Rajkumar-Adepu)
- -[Disha520](https://github.com/Disha520)
- - [dylan-sacco](https://github.com/dylan-sacco)
+- [Alexskald](https://github.com/jxuho) -[Rajkumar](https://github.com/Rajkumar-Adepu) -[Disha520](https://github.com/Disha520)
+- [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
-- [Ronahi Bağcı](https://github.com/RonayBagci) 
+- [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [jasurgraduate](https://github.com/jasurgraduate)
   [Dipankaj](https://github.com/DipankajSingh/)
@@ -62,7 +61,7 @@
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
-- [NandamRishith](https://github.com/nandam2003) 
+- [NandamRishith](https://github.com/nandam2003)
 - [Shogo Todoroki](https://github.com/n4304-ndensan)
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
@@ -238,7 +237,7 @@
 - jorsyk
 - Utkarsh Kumar
 - hi, iam anoof
-michal
+  michal
 - [Juan Saavedra](https://github.com/JuanSaavedraB/)
 - add-lansar
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
@@ -1848,3 +1847,4 @@ michal
 - [Chulpyo Kim] (https://github.com/chulpyo)
 - [CodeWithTaskin](https://github.com/CodeWithTaskin) : My First Contribution, looking forward for more..
 - [Rachel Lin](https://github.com/ItzRae)
+- [Arpit Garg](https://github.com/08arpit)
